@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Danrocc
 - 👀 I’m interested in collaborate in front end projects.
 - 🌱 I’m currently learning JavaScript, Redux, Node.js, and more
-- 📫 How to reach me: daniel.rocha.christ.dc@gmail.com / linkedin.com/in/daniel-rocha-christ
+- 📫 How to reach me: danielrochrist@gmail.com / linkedin.com/in/daniel-rocha-christ
 
 <!---
 Danrocc/Danrocc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
